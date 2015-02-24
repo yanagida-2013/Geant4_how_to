@@ -81,7 +81,7 @@ cd geant4
 ```
 サンプルをコピーしてくる
 ```
-cp -rf /usr/local/share/Geant4-10.1.0/examples/basic/B1 .
+cp -r /usr/local/share/Geant4-10.1.0/examples/basic/B1 .
 ```
 サンプルの実行ファイルを入れるビルドフォルダを作り、移動する。
 ```
